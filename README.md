@@ -36,10 +36,10 @@ Step-by-step instructions to run 'My Training App' Flutter app project:
 
 4. Clone or Download the Project
    Clone the repository using Git:
-   git clone <repository-url>
+   git clone https://github.com/nDroidObjects/trainings_app.git
    Or download the ZIP file and extract it.
    Navigate to the project directory:
-   cd <project-folder>
+   cd trainings_app <project-folder>
 
 5. Install Dependencies
    Run the following command to fetch all required packages:
